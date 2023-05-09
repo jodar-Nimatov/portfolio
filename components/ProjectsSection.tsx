@@ -23,7 +23,7 @@ const projects = [
   {
     name: "Product",
     description:
-      "Tools, tutorials, design and innovation experts, all in one place! The most intuitive way to imagine your next user experience.",
+      "Tools, tutorials, design and innovation experts, all in one place!! The most intuitive way to imagine your next user experience.",
     image: "/product.png",
     github: "https://github.com/jodar-Nimatov/Product",
     link: "https://product-neon-six.vercel.app/",
