@@ -6,28 +6,36 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Miller",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "Miller is online store, where you can buy coffee and various coffee drinks according to your taste and color.",
+    image: "/Miller.png",
+    github: "https://github.com/jodar-Nimatov/Miller",
+    link: "https://miller-shop.netlify.app/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Star Wars",
+    description: "Star Wars is project, where you can know about star wars characters, starships and planets.",
+    image: "/starwars.png",
+    github: "https://github.com/jodar-Nimatov/Star-Wars",
+    link: "https://star-wars-teal.vercel.app/",
   },
   {
-    name: "Kator Family Photos",
+    name: "Product",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "Tools, tutorials, design and innovation experts, all in one place! The most intuitive way to imagine your next user experience.",
+    image: "/product.png",
+    github: "https://github.com/jodar-Nimatov/Product",
+    link: "https://product-neon-six.vercel.app/",
   },
+  {
+    name: "Weather App",
+    description:
+      "Weather App is a web, where you can see the weather forecast for any city..",
+    image: "/weather.png",
+    github: "https://github.com/jodar-Nimatov/weather-app-react",
+    link: "https://weather-app-zeta-tawny.vercel.app/",
+  }
 ]
 
 const ProjectsSection = () => {
