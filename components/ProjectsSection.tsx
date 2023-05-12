@@ -9,7 +9,7 @@ const projects = [
     name: "Miller",
     description:
       "Miller is online store, where you can buy coffee and various coffee drinks according to your taste and color!",
-    image: "/Miller.png",
+    image: "/miller.png",
     github: "https://github.com/jodar-Nimatov/Miller",
     link: "https://miller-shop.netlify.app/",
   },
