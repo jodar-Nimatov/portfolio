@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.download-cv{
+    transform: translate(7px, -1px);
+    height: 45px;
+    width: 150px;
+    padding: 5px;
+}
