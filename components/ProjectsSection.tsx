@@ -9,7 +9,7 @@ const projects = [
     name: "Miller",
     description:
       "Miller is online store, where you can buy coffee and various coffee drinks according to your taste and color!",
-    image: "/i.jpg",
+    image: "/dip.png",
     github: "https://github.com/jodar-Nimatov/Miller",
     link: "https://miller-shop.netlify.app/",
   },
@@ -21,7 +21,7 @@ const projects = [
     link: "https://star-wars-teal.vercel.app/",
   },
   {
-    name: "Product",
+    name: "Product - Landing Page",
     description:
       "Tools, tutorials, design and innovation experts, all in one place!! The most intuitive way to imagine your next user experience.",
     image: "/product.png",

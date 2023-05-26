@@ -38,7 +38,7 @@ const HeroSection = () => {
           >
             Projects
           </Link>
-          <a href="/CV.pdf" download>
+          <a href="/Resume.pdf" download>
           <button className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700 download-cv">
             Download CV
           </button>

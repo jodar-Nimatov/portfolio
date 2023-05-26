@@ -8,9 +8,11 @@ const skills = [
   { skill: "TypeScript" },
   { skill: "React" },
   { skill: "Next.js" },
-  { skill: "Tailwind CSS" },
+  { skill: "Sass" },
   { skill: "Git" },
   { skill: "GitHub" },
+  { skill: "Redux"},
+  { skill: "Node.js"}
 ]
 
 const AboutSection = () => {
