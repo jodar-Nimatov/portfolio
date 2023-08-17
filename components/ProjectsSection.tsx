@@ -27,14 +27,6 @@ const projects = [
     image: "/product.png",
     github: "https://github.com/jodar-Nimatov/Product",
     link: "https://product-neon-six.vercel.app/",
-  },
-  {
-    name: "Weather App",
-    description:
-      "Weather App is a web, where you can see the weather forecast for any city..",
-    image: "/weather.png",
-    github: "https://github.com/jodar-Nimatov/weather-app-react",
-    link: "https://weather-app-zeta-tawny.vercel.app/",
   }
 ]
 
