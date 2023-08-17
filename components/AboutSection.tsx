@@ -13,6 +13,7 @@ const skills = [
   { skill: "GitHub" },
   { skill: "Redux"},
   { skill: 'Redux/toolkit'},
+  { skill: 'tailwind'},
   { skill: 'Material UI'},
   { skill: "Node.js"}
 ]
