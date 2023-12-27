@@ -21,12 +21,12 @@ const projects = [
     link: "https://star-wars-teal.vercel.app/",
   },
   {
-    name: "Product - Landing Page",
+    name: "Gloria - online shop",
     description:
-      "Tools, tutorials, design and innovation experts, all in one place!! The most intuitive way to imagine your next user experience.",
-    image: "/product.png",
-    github: "https://github.com/jodar-Nimatov/Product",
-    link: "https://product-neon-six.vercel.app/",
+      "Gloria is online store, on this website you can buy a balloons, flowers etc.",
+    image: "/gloria.png",
+    github: "https://gitlab.geeks.kg/gloria/gloriafront/",
+    link: "https://gloria.geeks.kg/",
   }
 ]
 

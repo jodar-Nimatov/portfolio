@@ -8,14 +8,14 @@ const skills = [
   { skill: "TypeScript" },
   { skill: "React" },
   { skill: "Next.js" },
+  { skill: "Vue"},
   { skill: "Sass" },
   { skill: "Git" },
   { skill: "GitHub" },
   { skill: "Redux"},
   { skill: 'Redux/toolkit'},
-  { skill: 'tailwind'},
-  { skill: 'Material UI'},
-  { skill: "Node.js"}
+  { skill: "Recoil"}, { skill: 'tailwind'},
+  { skill: 'Material UI'}
 ]
 
 const AboutSection = () => {
@@ -41,8 +41,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p> 
-              I study in the 10th grade, secondary school number 2 in the city of Kara Balta.
-              I graduated from the IT Geeks course at the beginning of 23 in the direction of front-end development and now I am studying back-end development.
+            I am focused on building scalable and efficient web applications. Always ready for learning and continuous development. Interested in the latest trends in front-end development.
             </p>
             <br />
             <p>
